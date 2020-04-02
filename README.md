@@ -11,7 +11,7 @@ This repository contains a list of useful projects and resources related to COVI
 
 ## Statistics and Datasets
 
-1.  [Epidemiology Unit - Ministry of Health ](http://www.epid.gov.lk/web/index.php?option=com_content&view=article&id=225&Itemid=518&lang=en).   Coronavirus disease 2019 (COVID-19) - Situation Report   
+1.  [Epidemiology Unit - Ministry of Health ](http://www.epid.gov.lk/web/index.php?option=com_content&view=article&id=225&Itemid=518&lang=en).   Coronavirus disease 2019 (COVID-19) - Daily Situation Reports of Sri Lanka  
 2. [@thiyangt/slcorona](https://github.com/thiyangt/slcorona).   R package for daily summary of the confirmed Coronavirus (COVID-19) cases in Sri Lanka
 
 ## Dashboard
