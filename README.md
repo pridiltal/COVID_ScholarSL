@@ -1,7 +1,3 @@
----
-toc:TRUE
----
-
 
 # COVID Scholar - Sri Lanka
 
