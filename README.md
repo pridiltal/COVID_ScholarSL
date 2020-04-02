@@ -5,6 +5,10 @@ Coronavirus disease (COVID-19) is an infectious disease caused by a new virus. M
 
 This repository contains a list of useful projects and resources related to COVID-19 🦠 in **Sri Lanka**.
 
+## Readings related to COVID 19 in Sri Lanka
+
+1. [Readings of Epidemilogy Unit](http://www.epid.gov.lk/web/index.php?option=com_content&view=article&id=228&lang=en) 
+
 ## Statistics and Datasets
 
 1.  [Epidemiology Unit - Ministry of Health ](http://www.epid.gov.lk/web/index.php?option=com_content&view=article&id=225&Itemid=518&lang=en).   Coronavirus disease 2019 (COVID-19) - Situation Report   
